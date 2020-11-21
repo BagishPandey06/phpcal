@@ -1,0 +1,30 @@
+#cal{
+     width: 300px;
+     height: 300px;
+     border: 1px solid black;
+     background-color: rgb(23, 48, 54);
+     background-image: linear-gradient(to right, rgba(115, 169, 219, 0.158), rgb(53, 78, 57));
+     border-radius: 15px;
+     box-shadow:1px 15px 10px black;
+}
+#show{
+    width: 250px;
+    height: 35px;
+    margin: 5px 5px 0 10px;
+    text-align: center;
+    padding: 2px 0 0 0;
+    color:rgb(2, 224, 113);
+    font-weight: bolder;
+    box-shadow:1px 15px 10px black;
+    
+}
+#buttons{
+    padding-left: 10px;
+}
+ button{
+     width: 50px;
+     height: 50px;
+     background-color: skyblue;
+    margin: 10px 0 0 8px;
+    box-shadow: 1px 5px 1px turquoise;
+}
